@@ -38,10 +38,9 @@
                     <div class="text-container">
                         <h1 class="h1-large" style="color:white;">Zatch Bell Token</h1>
                         <p class="p-large" style="color:white;">Zatch Bell ($ZachBell) is a fully decentralized, peer-to-peer digital currency, owned in whole by its community with instant rewards for holders. </p>
-                        <a class="btn-solid-lg" style="color:black; background-color:yellow" href="https://opensea.io/collection/bayblade">Twitter</a>
-                        <a class="btn-solid-lg secondary" style="color:black; background-color:yellow" href="https://t.me/joinchat/Wg4SFmpc0dwyZDFh">Telegram</a>
+                        <a class="btn-solid-lg" style="color:black; background-color:yellow" href="https://twitter.com/ZatchBell___">Twitter</a>
+                        <a class="btn-solid-lg secondary" style="color:black; background-color:yellow" href="https://t.me/ZatchBell11">Telegram</a>
                         <br>
-                        <!-- <a href="https://twitter.com/baybladetoken" target="_blank"><img  class="twitterimage"  src="images/twitter.png" height="50px" width="50px"  alt=""></a> -->
                     </div> <!-- end of text-container -->
                 </div> <!-- end of col -->
                 <div class="col-lg-6">
