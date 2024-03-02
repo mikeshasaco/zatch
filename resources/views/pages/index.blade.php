@@ -27,6 +27,86 @@
   background-color: #000000;
   color: white;
 }
+
+   
+.cardone {
+  
+  --color1: rgb(0, 231, 255);
+  --color2: rgb(255, 0, 231);
+  
+  width: 320px;
+  height: 446px;
+  /* background-color: #FFD700; */
+  background-size: 141%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 5% / 3.5%;
+  box-shadow: -13px -13px 13px -15px var(--color1), 
+    13px 13px 13px -15px var(--color2), 
+    0 0 4px 2px rgba(255,255,255,0.5),
+    0 35px 25px -15px rgba(0, 0, 0, 0.3);
+  position: relative;
+  overflow: hidden;
+  display: block;
+  vertical-align: middle;
+  margin: 20px 10px;
+  /* roatation */
+  /* animation: holoCard 15s ease infinite; */
+  transform-origin: center;
+  z-index: 10;
+  overflow: hidden;
+  transform: translate3d(0,0,-1px); 
+}
+
+.cardone.redmask {
+  --color1: rgb(255, 148, 54);
+  --color2: rgb(255, 90, 144);
+  background-image: url("zatch-bell.jpg");
+  background-size: 279%;
+  margin: auto;
+}
+
+.cardone.redmask:after {
+  opacity: 1;
+  background-image: url("https://media.giphy.com/media/gmDwphaOWmfkY/giphy.gif");
+  background-position: center;
+  background-size: 160%;
+  z-index: 2;
+  animation: holoSparkle 15s ease infinite both;
+  filter: brightness(1);
+  transition: filter 0.5s ease;
+}
+.cardone > span {
+  position: relative;
+  top: 45%;
+}
+.cardone:before,
+.cardone:after {
+  content: "";
+  opacity: .1;
+  mix-blend-mode: screen;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  background-repeat: no-repeat;
+}
+.cardone:before {
+  background-position: 50% 50%;
+  background-size: 300% 300%;
+  animation: holoGradient 15s ease infinite both;
+  background-image: linear-gradient(
+    115deg,
+    transparent 0%,
+    var(--color1) 30%,
+    transparent 47.5%,
+    transparent 52.5%,
+    var(--color2) 70%,
+    transparent 100%
+  );
+}
+
 </style>
 
 
@@ -172,6 +252,29 @@
     </div> <!-- end of basic-3 -->
     <!-- end of details 2 -->
 
+
+      <!-- Details 1 -->
+      <div id="details" class="basic-2" style="background-color:black;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5">
+                    <div class="text-container">
+                        <h2 style="color:white">Presale</h2>
+                        <p style="color:white;">Presale holders will recevie an Zatch NFT that will be sent to there opensea account. Those holders will have governance over the community and will be able to submit new designs for the $zatch NFT</p>
+                        <a class="btn-solid-lg secondary" style="color:black; background-color:yellow" href="https://t.me/ZatchBell11">Join Telegram for Join Presale</a>
+
+                        <!-- <p>We enjoy helping small and medium sized tech businesses take a shot at established Fortune 500 companies</p> -->
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-7">
+                    <div class="cardone redmask">
+                    
+                    </div> <!-- end of image-container -->
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-2 -->
+    <!-- end of details 1 -->
 
     
     <!-- Pricing -->
