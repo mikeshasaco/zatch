@@ -178,27 +178,6 @@
     
 
 
-    <!-- Details 1 -->
-    <div id="details" class="basic-2" style="background-color:black;">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-5">
-                    <div class="text-container">
-                        <h2 style="color:white">Launching on Solana</h2>
-                        <p style="color:white;">The official dog for GameStop Bringing power to the players, all around the world using solana.</p>
-                        <!-- <p>We enjoy helping small and medium sized tech businesses take a shot at established Fortune 500 companies</p> -->
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
-                <div class="col-lg-7">
-                    <div class="image-container">
-                    <img class="img-fluid" src="gamedog.jpg" alt="alternative">
-                    </div> <!-- end of image-container -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-2 -->
-    <!-- end of details 1 -->
-
 
 
    
