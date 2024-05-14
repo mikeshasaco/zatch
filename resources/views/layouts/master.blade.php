@@ -6,7 +6,7 @@
 
 
     <!-- Webpage Title -->
-    <title>ZatchBell</title>
+    <title>GAWD</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,7 +22,7 @@
 	<link href="css/styles.css" rel="stylesheet">
 	
 	<!-- Favicon  -->
-    <link rel="icon" href="zatchnoback.png">
+    <link rel="icon" href="gamedog.jpg">
 </head>
 <body data-spy="scroll" data-target=".fixed-top">
     
@@ -34,7 +34,7 @@
             <!-- <a class="navbar-brand logo-text page-scroll" href="index.html">Pavo</a> -->
 
             <!-- Image Logo -->
-            <a class="navbar-brand "  style="color:yellow; font-family: 'Libre Baskerville', serif; font-size:24px; text-decoration: none; ">Zatch Bell</a> 
+            <a class="navbar-brand "  style="color:white; font-family: 'Libre Baskerville', serif; font-size:24px; text-decoration: none; ">GameStopWifDog</a> 
 
             <button class="navbar-toggler p-0 border-0" type="button" data-toggle="offcanvas">
                 <span class="navbar-toggler-icon"></span>
