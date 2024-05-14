@@ -118,8 +118,8 @@
                     <div class="text-container">
                         <h1 class="h1-large" style="color:white;">GameStopWifDog Token</h1>
                         <p class="p-large" style="color:white;">GameStopWifDog ($GAWD) is a fully decentralized, peer-to-peer digital currency, launching on the solana network! </p>
-                        <a class="btn-solid-lg" style="color:black; background-color:red" href="https://twitter.com/ZatchBell___">Twitter</a>
-                        <a class="btn-solid-lg secondary" style="color:black; background-color:red" href="https://t.me/ZatchBell11">Telegram</a>
+                        <a class="btn-solid-lg" style="color:black; background-color:red" href="https://twitter.com/gamestopwifdog">Twitter</a>
+                        <a class="btn-solid-lg secondary" style="color:black; background-color:red" href="https://t.me/+C0XmUOUoA39hNWYx">Telegram</a>
                         <br>
                     </div> <!-- end of text-container -->
                 </div> 
@@ -205,7 +205,7 @@
                             </li>
                             <li class="media">
                                 <i class="fas fa-chevron-right"></i>
-                                <div class="media-body" style="color:white">website link </div>
+                                <div class="media-body" style="color:white">Big Community We are building on the solana network! </div>
                             </li>
                             <!-- <li class="media">
                                 <i class="fas fa-chevron-right"></i>
